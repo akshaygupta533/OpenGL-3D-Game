@@ -1,0 +1,3 @@
+/home/akshay/2-2/graphics/asgn2/3D world/build/CMakeFiles/edit_cache.dir
+/home/akshay/2-2/graphics/asgn2/3D world/build/CMakeFiles/rebuild_cache.dir
+/home/akshay/2-2/graphics/asgn2/3D world/build/CMakeFiles/graphics_asgn1.dir

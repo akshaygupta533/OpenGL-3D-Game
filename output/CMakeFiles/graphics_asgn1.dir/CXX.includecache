@@ -1,0 +1,286 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/arrow.cpp
+arrow.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/arrow.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/arrow.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/bars.cpp
+bars.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/bars.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/bars.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/bomb.cpp
+bomb.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/bomb.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/bomb.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannon.cpp
+cannon.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannon.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannon.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannonball.cpp
+cannonball.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannonball.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannonball.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/color.cpp
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/fuelr.cpp
+fuelr.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/fuelr.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/fuelr.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/groundsky.cpp
+groundsky.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/groundsky.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/groundsky.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.cpp
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+timer.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/timer.h
+plane.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/plane.h
+groundsky.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/groundsky.h
+ring.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/ring.h
+cannon.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannon.h
+cannonball.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/cannonball.h
+bars.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/bars.h
+volcano.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/volcano.h
+arrow.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/arrow.h
+missile.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/missile.h
+para.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/para.h
+bomb.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/bomb.h
+fuelr.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/fuelr.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+math.h
+-
+string
+-
+sstream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/missile.cpp
+missile.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/missile.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/missile.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/para.cpp
+para.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/para.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/para.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/plane.cpp
+plane.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/plane.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/plane.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/ring.cpp
+ring.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/ring.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/ring.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/timer.cpp
+timer.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/timer.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/volcano.cpp
+volcano.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/volcano.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+
+/home/akshay/2-2/graphics/asgn2/3D world/src/volcano.h
+main.h
+/home/akshay/2-2/graphics/asgn2/3D world/src/main.h
+string
+-
+
